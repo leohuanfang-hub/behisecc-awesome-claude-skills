@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [Kabo Plugins](https://github.com/kabo-sh/kabo-plugins) - Creator-research skills for Claude Code and Codex covering YouTube, Instagram, and TikTok: trends, competitor and account reviews, video breakdowns, and monetization. Free daily allowance; requires a Kabo account and Kabo-hosted services.
 
 
 ## 🤝 Contribution
